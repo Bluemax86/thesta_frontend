@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Chatbox from "./components/chatbox.jsx";
 import Login from "./components/login.jsx";
-import Signup from "./components/signup.jsx";
+import Signup from "./components/Signup.jsx";
 import Confirmation from "./components/confirmation.jsx";
 import axios from "axios";
 
